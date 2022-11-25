@@ -1,0 +1,46 @@
+[
+    {
+        "labels": ["서버", "네트워크", "DB", "WEB", "OA", "계정"],
+        "datasets": [
+        {
+            "type": "bar",
+            "label": "제주국제공항 면세점",
+            "backgroundColor": "rgb(68, 189, 251)",
+            "data": [7, 2, 6, 4, 3, 6, 11]
+        }
+        ]
+    },
+    {
+        "labels": ["서버", "네트워크", "DB", "WEB", "OA", "계정"],
+        "datasets": [
+        {
+            "type": "bar",
+            "label": "제주첨단과학기술단지",
+            "backgroundColor": "rgb(70, 38, 182)",
+            "data": [17, 12, 26, 14, 13, 6, 11]
+        }
+        ]
+    },
+    {
+        "labels": ["서버", "네트워크", "DB", "WEB", "OA", "계정"],
+        "datasets": [
+        {
+            "type": "bar",
+            "label": "제주항공우주박물관",
+            "backgroundColor": "rgb(216, 255, 98)",
+            "data": [27, 33, 21, 4, 4, 1, 42]
+        }
+        ]
+    },
+    {
+        "labels": ["서버", "네트워크", "DB", "WEB", "OA", "계정"],
+        "datasets": [
+        {
+            "type": "bar",
+            "label": "헬스케어타운",
+            "backgroundColor": "rgb(230, 47, 147)",
+            "data": [9, 33, 21, 4, 4, 42]
+        }
+        ]
+    }
+]
